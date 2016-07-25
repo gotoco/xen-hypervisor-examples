@@ -11,8 +11,12 @@ The target of this repo is to refresh original examples and make them able to ru
 
 
 #### To Do list:
+  - Test for charapter4
   - ARM support for 32 and 64 bits OS-es
   - Extend Scheduler from character 12 to don't crash system
+  - Provide alternative isXen
+  - Extras: Possible detection of Xen, Driver from XenStore
+ 
 
 #### Extra content:
 After reading the book I had a little an unsatisfied. Because most of the examples are small, there are not really functional and don't provide a good base for a real project I decided to extend some of them to learn more about Xen.
